@@ -5,4 +5,4 @@ Paytm_Layout is the simple layout of Paytm is made as task given by the moderato
 ## conten_main.xml
 
 
-![screenshot_2018-03-15-02-56-42 - copy](https://user-images.githubusercontent.com/25812257/37432351-169976ec-27fe-11e8-9aff-d72f6282b289.png)
+![screenshot_2018-03-15-02-56-42](https://user-images.githubusercontent.com/25812257/37432832-c50fea98-27ff-11e8-9d60-763731982400.png)
